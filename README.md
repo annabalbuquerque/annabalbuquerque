@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Python and MySQL.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and MySQL.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/annabalbuquerque/">LINKEDIN</a>
 
 <div align="left">
