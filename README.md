@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🌱 Always learning more about HTML, CSS, JavaScript, NodeJs, React, SQL, Git and Github.
+- 🌱 Always learning more about HTML, CSS, JavaScript, Python, SQL, Power BI, UX&UI, Git, Github.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/annabalbuquerque/">LINKEDIN</a>
 
 <div align="left">
